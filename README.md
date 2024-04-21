@@ -1,10 +1,7 @@
 # ConsoleGroceryShop
 
-### Project Overview
-The Grocery Management Application utilizes Database Management Systems (DBMS) and ACID properties to ensure data integrity and transaction reliability. ACID principles, including Atomicity, Consistency, Isolation, and Durability, govern transactional behavior, guaranteeing data consistency and reliability. Conflicting transactions arise when multiple transactions modify the same data concurrently, while non-conflicting transactions operate independently. Commits finalize transactions, making changes permanent, while rollbacks reverse transaction effects in case of failure. This project exemplifies efficient transaction management, maintaining a seamless experience for customers and administrators in managing grocery store operations with reliability and integrity.
-
-## User Guide for Grocery Management Application
-Welcome to the user guide for the Grocery Management Application. This guide will help you navigate through the functionalities available in the application.
+## User Guide for Console Grocery Shop
+Welcome to the user guide for the Console Grocery Shop. This guide will help you navigate through the functionalities available in the application.
 
 ### Initial Options
 When you start the application, you will be presented with the following options:
@@ -38,5 +35,5 @@ If you choose to login as an admin, you will have access to the following functi
 - You can submit feedback for a product after receiving your order.
 
 ### Contributors
-Subham Maurya (2022510)
-Wasif Ali (2022580)
+- Subham Maurya (subham22510@iiitd.ac.in)
+- Wasif Ali (wasif22583@iiitd.ac.in)
