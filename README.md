@@ -1,5 +1,17 @@
 # ConsoleGroceryShop
 
+## How to Setup ?
+1. Install node js and mysql along with mysql workbenck
+2. Use the terminal and create a folder named - `SHOP` at your desired location
+3. Move inside the `SHOP` folder and run these terminal commands:
+   -> npm init - (for creating package.json)
+   -> npm mysl - (for downloading required modules)
+4. open mysql workbench and create a localhost for holding the database
+5. Use that server and run the Database.sql file in it to create your database
+6. Open the Application.js inside `SHOP` and update the username and password which you have used for the creation of localhost
+7. Now Just use the below command to run the Application:
+   -> node Appication.js 
+
 ## User Guide for Console Grocery Shop
 Welcome to the user guide for the Console Grocery Shop. This guide will help you navigate through the functionalities available in the application.
 
